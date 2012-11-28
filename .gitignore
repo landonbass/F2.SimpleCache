@@ -1,1 +1,5 @@
 *.exe
+.DS_Store
+node_modules
+bin
+obj
